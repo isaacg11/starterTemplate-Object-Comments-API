@@ -1,5 +1,5 @@
 # starterTemplate-Object-Comments-API
-a starter template for creating object comments using the Stamplay Rest API
+a Javascript starter template for creating object comments using the Stamplay Rest API
 
 **NOTE: Users must be logged in to use the comment function!**
 
