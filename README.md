@@ -12,7 +12,7 @@ a starter template for creating object comments using the Stamplay Rest API
 
 2) **Establish object to be commented on**
 - Go to your Stamplay editor and go to the **Data** section. Then go to **Objects**
-- Establish what object in the collection your going to comment on by getting it's  **object Id**.
+- Establish which object in the collection your going to comment on by getting it's  **object Id**.
 
 3) **Comment**
 ```
